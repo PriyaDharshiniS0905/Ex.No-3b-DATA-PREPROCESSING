@@ -89,6 +89,9 @@ x_test = sc_x.transform(x_test)
 print(x_train)
 print(x_test)
 
+## GOOGLE COLAB LINK
+https://colab.research.google.com/drive/1eaY_f6Nsh-niOt-uuAN-feeD9b1IPj_b
+
 ## CONCLUSION
 Thus, the given dataset was successfully preprocessed by handling missing values, encoding categorical variables, splitting the data into training and testing sets, and performing feature scaling.
 
